@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RAKESH DUTTA</h1>
+<h1 align="center">Hey 👋, I'm RAKESH DUTTA  </h1>
 <h3 align="center">A passionate on DevOps methodology 
 from INDIA
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rksdutt&label=Profile%20views&color=0e75b6&style=flat" alt="rksdutt" /> </p>
