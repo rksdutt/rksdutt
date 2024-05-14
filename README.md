@@ -3,7 +3,7 @@
 from INDIA
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rksdutt&label=Profile%20views&color=0e75b6&style=flat" alt="rksdutt" /> </p>
 
-- 🌱 I’m currently learning **AWS,& DevOps Tools**
+- 🌱 I’m currently learning **AWS & DevOps Tools**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
