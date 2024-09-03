@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, there My name is RAKESH DUTTA<br>A Passionate & Seeking for a DevOps Position from INDIA.<br>I am currently working on some projects related on DevOps Domain & seeking for a Remote Opportunity.<br>I am looking for SRE or Cloud Engineer.<br>I have proficient knowledge on AWS Linux Git GitHub Docker Kubernetes Ansible Terraform Prometheus Grafana<br>and also have intermediate level of knowledge on GCP AZURE Cloud services providers.<br><br>
+Hey, there My name is RAKESH DUTTA<br>A Passionate & Seeking for a DevOps Position from INDIA.<br>I am currently working on some projects related on DevOps Domain & seeking for a Remote Opportunity.<br>I am looking for SRE or Cloud Engineer.<br>I have proficient knowledge on AWS Linux Git GitHub Docker Kubernetes Ansible Terraform Prometheus Grafana<br>and also have intermediate level of knowledge on AZURE Cloud services provider.<br><br>
 
 
 ## 🌐 Socials:
