@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey, there My name is RAKESH DUTTA<br>A Passionate Devops Enthusiast & Seeking for a Remote Position from INDIA.<br>I am currently working on some projects related on DevOps Domain & seeking for a Remote Opportunity.<br>I have proficient knowledge on AWS, Linux, Git, GitHub, Docker, Kubernetes, Ansible, Terraform, Prometheus, Grafana<br>and also have intermediate level of knowledge on AZURE Cloud services provider.<br><br>
+Hey, there It's RAKESH DUTTA<br>A Passionate Devops Enthusiast & Seeking for a Remote Position from INDIA.
+<br>I am currently working on some projects related on DevOps Domain & seeking for a Remote Opportunity.
+<br>I have proficient knowledge on AWS, Linux, Git, GitHub, Docker, Kubernetes, Ansible, Terraform, Prometheus, Grafana<br>and also have intermediate level of knowledge on AZURE Cloud services provider.<br><br>
 
 
 ## 🌐 Socials:
