@@ -13,6 +13,6 @@ Hey, there My name is RAKESH DUTTA<br>A Passionate Devops Enthusiast & Seeking f
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rksdutt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rksdutt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rksdutt&label=&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
