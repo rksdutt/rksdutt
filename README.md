@@ -1,5 +1,5 @@
 # 💫 About Me :
-👋 Hey, there It's RAKESH DUTTA.<br>🔭 Aspiring DevOps Engineer. Seeking for a Remote Position from INDIA.<br>🌱 I am currently working on some projects based on AWS Servuces & DevOps toolkits & actively seeking for an Opportunity.<br>🙋‍♂️ Expertise in AWS, Linux, Git, GitHub, Docker, Kubernetes, Ansible, Terraform, Prometheus, and Grafana.<br>⚡ And also have intermediate level of knowledge on AZURE Cloud services provider.<br> 🔗 This is My🔹Hashnode https://dailydoseindevops.hashnode.dev/ 
+👋 Hey, there It's RAKESH DUTTA.<br>🔭 Aspiring DevOps Engineer. Seeking for a Remote Position from INDIA.<br>🌱 I am currently working on some projects based on AWS Servuces & DevOps toolkits & actively seeking for an Opportunity.<br>🙋‍♂️ Expertise in AWS, Linux, Git, GitHub, Jenkins, Docker, Kubernetes, Ansible, Terraform, Prometheus, and Grafana.<br>⚡ And also have intermediate level of knowledge on AZURE Cloud services provider.<br> 🔗 This is My🔹Hashnode https://dailydoseindevops.hashnode.dev/ 
 
 
 ## 🌐 Socials :
